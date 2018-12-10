@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashids.net.core", "Hashids.net.core\Hashids.net.core.csproj", "{50218F5D-495F-431A-AFB4-2D184C9B7897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashids.net.core.Tests", "Hashids.net.core.Tests\Hashids.net.core.Tests.csproj", "{2D9F05A2-6570-48F6-890F-B4FFCE76F7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50218F5D-495F-431A-AFB4-2D184C9B7897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50218F5D-495F-431A-AFB4-2D184C9B7897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50218F5D-495F-431A-AFB4-2D184C9B7897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50218F5D-495F-431A-AFB4-2D184C9B7897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9F05A2-6570-48F6-890F-B4FFCE76F7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9F05A2-6570-48F6-890F-B4FFCE76F7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9F05A2-6570-48F6-890F-B4FFCE76F7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89522457-B6BD-482F-A7FE-3C90979B6A35}
+	EndGlobalSection
+EndGlobal
